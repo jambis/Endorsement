@@ -4,11 +4,11 @@ Artifacts would be your LinkedIn profile, Portfolio along with the projects to s
 
 ## Github
 
-- Refer to the [rubric](https://drive.google.com/file/d/1geqZSdwle2YU6dRGjBbvFT2U9WqReOLU/view) make sure you aim for those 3 stars in each section that applies to you
+- Refer to the [rubric](https://drive.google.com/file/d/1geqZSdwle2YU6dRGjBbvFT2U9WqReOLU/view) as with any rubric aim for the 3 stars in each section that applies to you.
 - One thing I recommend doing early on is making a private repo for your code challenges, Normally around the time you start Computer Science (CS) you should practice doing a lot of code challenges.
   - Make sure to commit and push on days where you didn't code, the trick here is to keep your github contribution graph with as many green squares as possible
   - Try doing coding challenges in 3 languages (Python, JS, and other language of your choice)
-- Everytime you complete a build week project make sure you update the `Readme.md`, with as many details as possible, so later on you remember exactly what you did, and when applying to jobs developers can look at your `Readme.md` and get a quick look at what you accomplished. The following are things I added to the `Readme.md`
+- Everytime you complete a build week project make sure you update the `Readme.md`, with as many details as possible, so later on you remember exactly what you did, and when applying to jobs, developers can look at your `Readme.md` and get a quick look at what you accomplished. The following are things I added to the `Readme.md`
   - Title of the Project - quick explanation what the app intends to solve, technical design document, figma design (if available), Trello Board, Deployed link, disclaimer of the length the project was done in.
   - Motivation - Motivation for making this app
   - Features - Feature that were implmented
