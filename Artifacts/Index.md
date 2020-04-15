@@ -27,7 +27,7 @@ Artifacts would be your LinkedIn profile, Portfolio along with the projects to s
 
 - [Rubric](https://drive.google.com/file/d/15iB86TUKAMUaHxB3zf74A5oRTwmAVnkL/view) for Portfolio
 - I had a lot of fun remaking this whole website in React, personally I didn't want to use the HTML5 up template page that was done during the curriculum. By the point you reach CS or Endorsement unit, you would've learned so much, and something about being a web developer but using template pages doesn't sit well wiht me.
-- I purchased a domain with **Google Domains** and hosting is done with **Netlify**. Click [here](./Googledomains) in how to setup the DNS servers
+- I purchased a domain with **Google Domains** and hosting is done with **Netlify**. Click [here](./Googledomains.md) in how to setup the DNS servers
 - An advice I have heard given a lot is that recruiters don't have that much time to go through everything on your portfolio or your resume for that matter. So make sure the core of your project doesn't take that many clicks or scrolling to get to. Most importantly make sure your projects and contact links are quickly accessible upon landing on the frontpage.
 
 ## Resume
