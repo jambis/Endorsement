@@ -15,7 +15,7 @@ This is a 30 _minute_ interview set with a career coach where you will act out a
   - Tell me about yourself
   - Tell me about Lambda School
   - Tell me about about one of your weaknesses and strength
-  - Tell me about a time you had difficult challenge and what you did overcome it
+  - Tell me about a time you had difficult challenge and what you did to overcome it
   - At some point there could be a curveball thrown at you catch you offguard, such question can be What are you looking for in terms of salary? or some sort of bait into having difficult time with a employee, where it seems like it might be encourage you play along into talking negative about a co-worker, but in reality you want to spin it into something positive.
   - When asking questions to the interviewer make sure it is about the company, and selfish questions about what benefits there are for you. Also don't ask question that can be researched or that are clearly in job description.
 
