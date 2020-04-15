@@ -5,7 +5,7 @@ In this repo you will find the endorsement process for lambda school at the time
 ## Table of Contents
 
 1. [Artifacts](./Artifacts/Index.md)
-2. [Behavioral Interview](./Behaviortal_Interview/Index.md)
+2. [Behavioral Interview](./Behavioral_Interview/Index.md)
 3. [Technical Interview](./Technical_Interview/Index.md)
 4. [Web Core Interview](./Webcore_Interview/Index.md)
 
