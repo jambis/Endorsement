@@ -19,7 +19,7 @@ Artifacts would be your LinkedIn profile, Portfolio along with the projects to s
 
 ## LinkedIn
 
-- [Rubric](https://drive.google.com/file/d/15iB86TUKAMUaHxB3zf74A5oRTwmAVnkL/view) for LinkedIn
+- [Rubric](https://drive.google.com/file/d/1B17zQTHCzUqrPS-rbqTCFB32a8UwJgtm/view) for LinkedIn
 - Most things are self explanatory, if you did a good job during build weeks and labs of updating readme, all of this should come to you a lot easier, I personally did my resume and portfolio before working on this, and then its copy and paste. But you can definitely do it the other way around.
 - Not much advice here it's pretty self explanatory from the rubric
 
