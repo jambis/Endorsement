@@ -1,6 +1,6 @@
 # Endorsement
 
-In this repo you will find the endorsement process for Lambda School at the time when I was going through the endorsement unit in **April 2020**, of course this process is subject to change but I believe some of the tips and resources that I've used during the process will remain relevant.
+In this repo you will find the endorsement process for Lambda School at the time when I was going through the endorsement unit in **April 2020**. This is only for the Web curriculum, of course this process is subject to change but I believe some of the tips and resources that I've used during the process will remain relevant.
 
 ## Table of Contents
 
@@ -15,5 +15,5 @@ Here is what is needed to become Lambda endorsed.
 
 1. Have your Linked, portfolio, github and resume checked off by a career coach.
 2. Pass the 30 minute behavioral interview.
-3. Two part process, pass a Hacker Rank (HR) challenge that consist of 4 problems (4 hrs) and a 1 hour interview to do a more deep dive over your HR challenge answers.
-4. Pass a 1 hour web track interview (backend & frontend)
+3. Two part process, pass a Hacker Rank (HR) code challenge and a 30 minute interview to do a more deep dive over your HR challenge answers.
+4. Pass a 1 hour Web track interview (backend & frontend)
