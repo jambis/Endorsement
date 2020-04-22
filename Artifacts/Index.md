@@ -4,9 +4,10 @@ Artifacts would be your LinkedIn profile, Portfolio along with the projects to s
 
 ## Github
 
-- Refer to the [rubric](https://drive.google.com/file/d/1geqZSdwle2YU6dRGjBbvFT2U9WqReOLU/view) as with any rubric aim for the 3 stars in each section that applies to you.
+- Refer to the [rubric](https://drive.google.com/file/d/1geqZSdwle2YU6dRGjBbvFT2U9WqReOLU/view) as with any rubric aim for the 3 stars in each row that applies to you.
 - One thing I recommend doing early on is making a private repo for your code challenges, Normally around the time you start Computer Science (CS) you should practice doing a lot of code challenges.
   - Make sure to commit and push on days where you didn't code, the trick here is to keep your github contribution graph with as many green squares as possible
+  - Also important to know when you get green squares. But I believe it's when you do a PR to master, fork a repo and commit to master (don't take my word for it). Also there's a setting that might hide your contributions if they're in a private repo depending if you have it enabled.
   - Try doing coding challenges in 3 languages (Python, JS, and other language of your choice)
 - Everytime you complete a build week project make sure you update the `Readme.md`, with as many details as possible, so later on you remember exactly what you did, and when applying to jobs, developers can look at your `Readme.md` and get a quick look at what you accomplished. The following are things I added to the `Readme.md`.
   - Title of the Project - quick explanation what the app intends to solve, technical design document, figma design (if available), Trello Board, Deployed link, disclaimer of the length the project was done in.
@@ -27,7 +28,7 @@ Artifacts would be your LinkedIn profile, Portfolio along with the projects to s
 
 - [Rubric](https://drive.google.com/file/d/15iB86TUKAMUaHxB3zf74A5oRTwmAVnkL/view) for Portfolio
 - I had a lot of fun remaking this whole website in React, personally I didn't want to use the HTML5 up template page that was done during the curriculum. By the point you reach CS or Endorsement unit, you would've learned so much, and something about being a web developer but using template pages doesn't sit well with me.
-- I purchased a domain with **Google Domains** and hosting is done with **Netlify**. Click [here](./Googledomains.md) too see wow to setup the DNS servers so your domain is linked with your Netlify deployed site.
+- I purchased a domain with **Google Domains** and hosting is done with **Netlify**.
 - An advice I have heard given a lot is that recruiters don't have that much time to go through everything on your portfolio or your resume for that matter. So make sure a recruiter doesn't have to take too many clicks or scrolling to get to your links and projects.
 
 ## Resume
@@ -38,4 +39,4 @@ Artifacts would be your LinkedIn profile, Portfolio along with the projects to s
 - Some neat templates [1](https://resumegenius.com/wp-content/uploads/2018/07/data-scientist-resume-example-template.png), [2](https://resumegenius.com/wp-content/uploads/2017/09/Software-Engineer-Resume-Example-Template.png), [3](https://assets.qwikresume.com/resume-samples/pdf/screenshots/mobile-developer-1530594976-pdf.jpg)
 - Personally I prefer the one column approach over splitting the whole resume into two columns, but I guess either works.
 - Power statements covered in the deep dives are key and be descriptive about your role, mentioned awards if a project won something. Maybe your labs project was 1 of the 5 selected to present for Shark tank.
-- One thing you **never** want to do is rate yourself on your skills.
+- One thing you **never** want to do is rate yourself on your skills. It can be too subjective, and you might even be underestimating your own skill level.

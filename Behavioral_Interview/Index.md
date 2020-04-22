@@ -21,15 +21,16 @@ This is a 30 _minute_ interview set with a career coach where you will act out a
 
 ## Responses and Questions
 
+- A tough question might get thrown at you to see how you handle it, and it vary which question they choose but I received the salary expectation question. Here's an example on how you can answer it.
+
 ```
 Salary question:
 I dont see salary as an issue as long as its in the market rate.
 If they push it:
-I'm targeting a range of 60-80k negotiable upon total package compensation
+I'm targeting a range of 60-80k but it could be negotiable upon total package compensation
 ```
 
-```
-Insight for future interviews (What does the process look like moving foward?)
-Connect with interviewer (By what metric would you know if a recently hired developer was the right choice? Where do you see this company headed?
-Favorite project you worked on during your time at the company?)
-```
+- Good questions to ask for the interviewer at end would be questions that either provide insight into future interviews or question that let you connect with the interviewer so that they remember you.
+  - Insight for future interviews (What does the process look like moving foward? By what metric would you know if a recently hired developer was the right choice?)
+  - Connect with interviewer (Where do you see this company headed?
+    Favorite project you worked on during your time at the company?)
