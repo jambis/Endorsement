@@ -11,7 +11,7 @@ In this repo you will find the endorsement process for Lambda School at the time
 
 ## General Breakdown
 
-Here is what is needed to become Lambda endorsed.
+Here is what is needed to become endorsed at Lambda School.
 
 1. Have your Linked, portfolio, github and resume checked off by a career coach.
 2. Pass the 30 minute behavioral interview.
