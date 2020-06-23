@@ -16,4 +16,4 @@ Here is what is needed to become Lambda endorsed.
 1. Have your Linked, portfolio, github and resume checked off by a career coach.
 2. Pass the 30 minute behavioral interview.
 3. Two part process, pass a Hacker Rank (HR) code challenge and a 30 minute interview to do a more deep dive over your HR challenge answers.
-4. Pass a 1 hour Web track interview (backend & frontend)
+4. Pass an 1 hour Web track interview (backend & frontend)
